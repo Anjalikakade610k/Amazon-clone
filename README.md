@@ -1,5 +1,5 @@
 # Amazon Clone Application
-<img width="1439" alt="img-21" src="https://github.com/mansithanki/Amazon-Clone-Application/assets/44176224/4c40531d-7f28-4aba-a7dc-e8d9817b727a">
+
 
 
 ## Overview
